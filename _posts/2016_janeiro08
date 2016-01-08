@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2016-Semana 1: Novidades no Reboo"
+date:   2016-08-20 10:33:00
+categories: changelog
+---
+
+Depois de inúmeras semanas sem postagens o blog de novidades da equipe de desenvolvimento da Rede Nossas Cidades está de volta.
+
+Como ainda estou me familiarizando com a forma de edição do Github, serei bem objetivo.
+
+Nas suas duas últimas semanas, o eterno Nicolas Iensen (que se desligou da equipe essa semana, mas estará sempre por perto) iniciou três movimentos de desenvolvimento para o Reboo:
+  **Estudar a implementação de um sistema de pagamento, possivelmente o Pagar.me**
+  **Possibilitar a escolha de cor e tamanho das fontes do texto**
+  **Permitir que o usuário possa ocultar o contador do formulário, caso assim deseje**
+  
+  No dia 03, voltamos do recesso, e a Letícia assumiu o bastão nessas três tarefas, além de finalizar a correção de um bug que desordenava os blocos caso fossem reordenados seguidamente.
+  
+  
